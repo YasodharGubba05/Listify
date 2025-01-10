@@ -1,1 +1,12 @@
-
+.head{
+   display: flex;
+   justify-content: center;
+   font-family: cursive;
+}
+html{
+    margin: 0;
+    background-color: lightseagreen;
+}
+.todo{
+    margin-top: 40px;
+}
