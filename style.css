@@ -7,6 +7,10 @@ html{
     margin: 0;
     background-color: lightseagreen;
 }
-.todo{
-    margin-top: 40px;
+.inputbox{
+    margin: auto;
+    margin-top: 90px;
+    height: 500px;
+    width: 500px;
+    border: 3px solid black;   
 }
