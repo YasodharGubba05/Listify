@@ -14,3 +14,13 @@ html{
     width: 500px;
     border: 3px solid black;   
 }
+.title{
+    display: flex;
+    justify-content: center;
+}
+.inputarea{
+    margin-top: 25px;
+    margin-left: 30px;
+    padding: 10px;
+    font-size: 20px;
+}
