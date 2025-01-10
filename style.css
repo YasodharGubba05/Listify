@@ -11,7 +11,7 @@ html{
     margin: auto;
     margin-top: 90px;
     height: 500px;
-    width: 500px;
+    width: 550px;
     border: 3px solid black;   
 }
 .title{
@@ -28,5 +28,8 @@ html{
     margin-left: 370px;
     padding: 5px;
     border-radius: 5px;
-
+}
+.delete{
+    padding: 5px;
+    border-radius: 5px;
 }
