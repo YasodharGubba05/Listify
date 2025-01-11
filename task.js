@@ -16,7 +16,6 @@ function inputhandler() {
     deleteinput.addEventListener("click",function(){
         taskelem.remove();
     })
-
 }
 
 button.addEventListener("click",inputhandler)
